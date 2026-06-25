@@ -1,0 +1,12 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Output log files
+*.log
+
+# IDE settings folders
+.vscode/
+.idea/
+.pytest_cache/
