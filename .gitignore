@@ -10,3 +10,15 @@ __pycache__/
 .vscode/
 .idea/
 .pytest_cache/
+
+# Generated data files and databases
+*.csv
+*.db
+*.db3
+*.sqlite
+*.sqlite3
+*.xlsx
+
+# Generated reports and charts
+*.png
+
